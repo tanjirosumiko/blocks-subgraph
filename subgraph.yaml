@@ -8,7 +8,7 @@ dataSources:
     name: ConverterRegistryContract
     network: arbitrum-one
     source:
-      address: '0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e'
+      address: '0xF7BB065BC80e29d5a9DEe99d2d355Bfb61981AA7'
       abi: ConverterRegistryContract
     mapping:
       kind: ethereum/events
